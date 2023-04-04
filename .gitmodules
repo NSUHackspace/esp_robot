@@ -1,0 +1,3 @@
+[submodule "firmware/components/ps3"]
+	path = firmware/components/ps3
+	url = git@github.com:NSUHackspace/esp32-ps3-esp-idf-v5.git
